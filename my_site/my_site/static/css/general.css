@@ -1,0 +1,19 @@
+/* Increase navbar height */
+.navbar {
+    padding-top: 2.5rem; /* Adjust top padding */
+    padding-bottom: 2.5rem; /* Adjust bottom padding */
+}
+
+/* Optional: Adjust font size of nav items for better balance */
+.navbar-nav .nav-link {
+    font-size: 1.2rem; /* Adjust font size */
+}
+
+/* Main content area */
+body {
+    background-color: #181818; /* Dark gray */
+}
+
+main {
+    color: #ffffff; 
+}
